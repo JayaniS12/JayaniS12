@@ -1,5 +1,8 @@
-Hi there 👋 I am JAYANI S
+Hi there 👋 
+I am JAYANI S
+
 👩‍💻 First year AML Student|Aspiring Software engineer
+
 
 📖 About Me 
 🎓 What I Study: Pursuing a Bachelor of Engineering (B.TECH.) in Artificial Intelligence and Machine Learning at St. Joseph's College Of Engineering, Chennai. 
